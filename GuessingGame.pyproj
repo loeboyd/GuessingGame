@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>1bc3e3a9-04c5-4446-addc-9a6ecccdc33b</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>GuessingGame.py</StartupFile>
+    <StartupFile>CIS261-GuessingGame.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,7 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="GuessingGame.py" />
+    <Compile Include="CIS261-GuessingGame.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
